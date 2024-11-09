@@ -1,0 +1,7 @@
+{"scripts": {
+  "start": "ts-node-dev --respawn --transpile-only src/p-3.ts"
+},
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
