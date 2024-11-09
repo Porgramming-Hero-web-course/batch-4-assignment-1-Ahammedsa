@@ -17,7 +17,6 @@
       
       
     }
-    const myCar = new Car("Honda", "civic", 2018)
-    console.log(myCar.getCarAge())
+ 
     //
 }

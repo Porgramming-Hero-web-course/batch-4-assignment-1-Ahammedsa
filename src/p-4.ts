@@ -18,9 +18,6 @@
         }
         throw new Error("Error")
      }
-     const circleArea = calculateShapeArea({shape: "circle", radius : 10})
-     const recantagleArea = calculateShapeArea({shape : "rectangle", width : 10 , height : 32})
-      console.log(circleArea)
-      console.log(recantagleArea)
+   
      //
 }

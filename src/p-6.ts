@@ -13,7 +13,6 @@
         age : 26 ,
         email : "email@gmail.com"
     }
-    const updatedProfile = updateProfile(myProfile , {age : 24})
-    console.log(updatedProfile)
+
     //
 }

@@ -13,8 +13,6 @@
         }
         return count
     }
-  console.log(  countWordOccurrences("I love typescript", "typescript"))
-console.log(countWordOccurrences("I love typescript", "typescript"));  
-console.log(countWordOccurrences("I love typescript and typescript is awesome", "typescript"));
+
     //
 }
